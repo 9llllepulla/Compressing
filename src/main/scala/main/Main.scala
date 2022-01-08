@@ -1,6 +1,6 @@
 package main
 
-class Main extends App {
+object Main extends App {
 
   val compress = Compressor
 
